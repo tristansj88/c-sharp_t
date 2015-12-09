@@ -6,7 +6,7 @@
 //Class: POS/409
 //Intructor: Ashish Gulati
 
-//Hello this is Ahmed
+
 
 using System;
 using System.Collections.Generic;
